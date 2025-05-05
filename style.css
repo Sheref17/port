@@ -215,6 +215,7 @@ background-color: var(--secondary-bg);
 }
 .container{
     padding: 90px;
+    padding: 5vw;
 }
 .services-list{
     display: grid;
