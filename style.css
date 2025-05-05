@@ -168,7 +168,7 @@ background-color: var(--secondary-bg);
 }
 .about-img{
     padding-block: 20%;
-
+    width: 100%;
 
     max-width: 630px;
     height: auto;
@@ -275,10 +275,11 @@ background-color: var(--secondary-bg);
 }
 
 .container1{
-    width: 600px;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
     height: 500px;
     padding: 75px 90px;
-    margin-left: 120px;
 }
 .heading1{
     text-align: center;
